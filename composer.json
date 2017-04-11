@@ -3,8 +3,7 @@
   "description": "A geospatial library and set of utilities for Laravel. This is fork from https://github.com/ralphschindler/laragis",
   "keywords": ["php", "geo", "gis", "spatial", "geospatial", "laravel"],
   "type": "library",
-  "version": "1.0.0",
-  "minimum-stability": "dev",
+  "version": "1.0.1",
   "license": "UNLICENSE",
   "authors": [
     {
