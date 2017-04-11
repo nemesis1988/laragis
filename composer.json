@@ -1,8 +1,10 @@
 {
-  "name": "ralphschindler/laragis",
-  "description": "A geospatial library and set of utilities for Laravel",
+  "name": "nemesis/laragis",
+  "description": "A geospatial library and set of utilities for Laravel. This is fork from https://github.com/ralphschindler/laragis",
   "keywords": ["php", "geo", "gis", "spatial", "geospatial", "laravel"],
   "type": "library",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
   "license": "UNLICENSE",
   "authors": [
     {
@@ -19,12 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "LaraGis\\": "src/"
-    }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0.x-dev"
+      "Nemesis\\": "src/"
     }
   }
 }
