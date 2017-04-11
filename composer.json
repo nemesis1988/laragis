@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Nemesis\\": "src/"
+      "LaraGis\\": "src/"
     }
   }
 }
